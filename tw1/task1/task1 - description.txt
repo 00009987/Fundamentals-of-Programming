@@ -1,0 +1,9 @@
+1.	Explore other events of a windows form 
+2.	Try to make a form that is impossible to close by clicking on cross button in right-top corner
+3.	Explore properties of form and standard controls (label, textbox ,button)
+4.	Try to make a form 
+	a.	without title bar
+	b.	that cannot be resized
+	c.	with minimize and/or maximize button disabled
+5.	Find a way to limit the size of a form when user wants to resize it
+6.	Explore docking

@@ -1,0 +1,10 @@
+Programming exercise I – The strange language
+Your task is to create an English-Elbonian dictionary. 
+It is known that Elbonian words have the same meaning as English words but have different spelling. In order to translate from English to Elbonian you should concatenate 2nd part of an English word with its first part.
+For example, in order to translate word “work” in Elbonian we have to split original word into parts “wo” and “rk” and then put second part before the first one: “rkwo”. If the word has odd number of letters you should take less for the first part and more for the second e.g. 
+“power” -> “po” + “wer” -> “werpo”
+Hints: 
+	1.	Use String.Length function to find out the length of a word
+	2.	Use Math.Floor to take less letters for the first half
+	3.	Use String.Substring to take parts of words
+

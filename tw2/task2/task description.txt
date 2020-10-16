@@ -1,0 +1,10 @@
+Programming exercise II – Calculator project
+1.	Enhance the program so that result is given in the following way
+	2 * 3 = 6
+	i.e. with the operands, operator and result
+2.	Enhance the program to check if user has input anything into textboxes before conducting evaluation
+3.	Check if the values entered into textboxes are numeric. In case of empty input the program should give notification via msgbox and do not 	calculate result
+4.	Let’s assume that operations are allowed on integers only. Check if the input is integer. Use the following algorithm: 
+	a.	Check if the input is numeric
+	b.	Cast input to double
+	c.	Check for integer using Math.Round() or Math.Floor() and Math.Ceiling()

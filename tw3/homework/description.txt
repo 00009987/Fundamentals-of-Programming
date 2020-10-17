@@ -1,0 +1,7 @@
+Home work
+Integer textbox
+	1.	Create new Windows application called IntegerTextbox
+	2.	Add textbox to form
+	3.	Create handler for KeyPress event of the text box and check for input (e.KeyChar property)
+	4.	If input is incorrect – ignore user input by setting e.Handled = True
+	5.	Run the program and see the result

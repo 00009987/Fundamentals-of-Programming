@@ -1,0 +1,5 @@
+Programming exercise III– Leap year
+A year with 366 days is called a leap year. A year is a leap year if it is divisible by four (for example, 1980). However, a year is not a leap year if it is divisible by 100 (for example 1900); though it is a leap year if it is divisible by 400 (for example 2000). Moreover since the introduction of the Gregorian calendar is dated October 15, 1582, there was no leap years before that date. Write a program that prompts the user for a year and then computes whether that year is a leap year
+	1.	Create new Windows application called LeapYear
+	2.	Add NumericUpDown to grab user input
+	3.	Add one button that will perform the logic and prompt (via MsgBox) if the year entered is leap or not

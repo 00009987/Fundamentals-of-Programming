@@ -1,0 +1,10 @@
+C:\Users\user\source\repos\IntegerTextBox\IntegerTextBox\bin\Debug\IntegerTextBox.exe.config
+C:\Users\user\source\repos\IntegerTextBox\IntegerTextBox\bin\Debug\IntegerTextBox.exe
+C:\Users\user\source\repos\IntegerTextBox\IntegerTextBox\bin\Debug\IntegerTextBox.pdb
+C:\Users\user\source\repos\IntegerTextBox\IntegerTextBox\obj\Debug\IntegerTextBox.csprojAssemblyReference.cache
+C:\Users\user\source\repos\IntegerTextBox\IntegerTextBox\obj\Debug\IntegerTextBox.Form1.resources
+C:\Users\user\source\repos\IntegerTextBox\IntegerTextBox\obj\Debug\IntegerTextBox.Properties.Resources.resources
+C:\Users\user\source\repos\IntegerTextBox\IntegerTextBox\obj\Debug\IntegerTextBox.csproj.GenerateResource.cache
+C:\Users\user\source\repos\IntegerTextBox\IntegerTextBox\obj\Debug\IntegerTextBox.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\IntegerTextBox\IntegerTextBox\obj\Debug\IntegerTextBox.exe
+C:\Users\user\source\repos\IntegerTextBox\IntegerTextBox\obj\Debug\IntegerTextBox.pdb

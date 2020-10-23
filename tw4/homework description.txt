@@ -1,0 +1,10 @@
+Homework
+Heron method
+The Heron method is a method for computing square roots that was known to ancient Greeks. If x is a guess for , then the average of x and a/x is a better guess. Write a program that computes square root of a number. Stop when the difference between that number and x  is less than 0.01 - where x is a square root of that number (Hint: start with initial guess equal to 1). 
+	1.	Create new Windows application called Heron
+	2.	Add a NumericUpDown to form and a button
+	3.	Declare a variable to hold your guess and set it to 1 by default
+	4.	After button is hit enter a loop with the condition given (absolute value of difference between guessed number squared and actual 		number < 0.01) is not satisfied – use Math.Abs() function for getting absolute value
+	5.	Within the loop reassign the variable with “better guess” – average of guess and input/guess
+	6.	If the condition is satisfied – display both real square root (use Math.Sqrt() function to get it) and your guess via msgbox (use “\n		” to separate lines)
+	7.	Run the program and see the result
